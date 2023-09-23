@@ -32,3 +32,12 @@ POST
 
 http://localhost:8080/api/es/products
 GET
+
+Screenshots
+
+
+![image](https://github.com/srss-pocs/springboot-elasticsearch/assets/145287517/7ac8c80a-39c9-49b6-8a84-2e547fcfe3cc)
+
+
+
+![image](https://github.com/srss-pocs/springboot-elasticsearch/assets/145287517/758d91ec-9906-4dff-b642-da55ced1c579)
