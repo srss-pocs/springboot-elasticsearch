@@ -21,8 +21,11 @@ Start Application
 Check application properties file
 
 APIS
+
 http://localhost:8080/api/es/products
+
 POST 
+
 {
 "name":"B11 smartwatch",
 "price":28000,
@@ -30,7 +33,9 @@ POST
 "quantity": 1
 }
 
+
 http://localhost:8080/api/es/products
+
 GET
 
 Screenshots
